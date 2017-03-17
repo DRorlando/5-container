@@ -1,0 +1,46 @@
+<html>
+
+<title></title>
+
+<head>
+<link rel="stylesheet" type= "text/css" href="style.css">
+
+
+</head>
+<body>
+
+
+<div id= "container">
+ <div id= "header"> </div>
+ <div id= "nav">
+ <ul>
+ <li><a href="index.html">Home</a></li>
+ <li><a href="rates.html">Rates</a></li>
+ <li><a href="aboutus.html">About Us</a></li>
+ <li><a href="Contactus.html">Contact Us</a></li>
+ <li><a href="gallery.html">Gallery</a></li>
+ </ul> 
+ 
+</div>
+ <div id= "left"></div>
+           <div id="kids"></div>
+ <div id="right"><p>Do you constantly worry about your children while you are at work?</p> 
+ <p>With the Rainbow Day Care Center, you don't have to worry about any of that.</p>
+ <p>We‘ll take care of your children and make sure they have a good time at the 
+ day care by offering them a loving, safe, learning environment.</p>
+ Come join us! Owner: Alba Sanchez. </p></div>
+ <div id="footer"><p>Address: 11224 Holmes Road, Kansas 
+ City, MO 64131-3626</p></div>
+</div>
+
+
+
+
+</body>
+
+
+
+
+
+</html>
+
